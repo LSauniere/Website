@@ -40,6 +40,11 @@
     "module4": "Annotation Part",
     "module5": "IES Probability + Curve History",
     "description": "Click on a module to learn more about it!",
+    "description-module1": "This module includes the EEG signal and the spectrogram just below it.",
+    "description-module2": "This module includes the State Chart. It is a scale that represents the depth of sedation, from 0 (too deep) to 20 (awake).",
+    "description-module3": "This module includes the sensitivity score. This score, calculated during induction, provides information about the patient's sensitivity to hypnotics.",
+    "description-module4": "This module includes the annotation part of the software. During the operation, you can write down any information you wish. These annotations are very useful for post-operative analysis of the EEG signal.",
+    "description-module5": "This module includes the IES probability in the next 90 seconds and the curve history.",
     "latestnews-text": "Find our booth in the Start-up corner of the SFAR congress."
   },
   "fr": {
@@ -83,9 +88,15 @@
     "module4": "Partie Annotations",
     "module5": "Probabilité d'IES + Historique",
     "description": "Cliquez sur un module pour en apprendre plus!",
+    "description-module1": "Ce module comprend le signal EEG et le spectrogramme juste en-dessous",
+    "description-module2": "Ce module comprend la State chart et son historique tout au long de l'opération. C'est une échelle qui représente la profondeur de sédation, allant de 0 (trop profond) á 20 (éveillé).",
+    "description-module3": "Ce module comprend le score de sensibilité. Ce score, calculé pendant l'induction, renseigne sur la sensibilité du patient aux hypnotiques.",
+    "description-module4": "Ce module comprend la partie annotations du logiciel. Pendant l'opération, vous pouvez ajouter toutes lers informations que vous souhaitez. Ces informations sont utiles pour l'analyse post-opératoire du signal EEG.",
+    "description-module5": "Ce module comprend la probabilité d'IES sur les 90 prochaines secondes et son historique tout au long de l'opération.",
     "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR."
   }
 }
+
 
 
 
