@@ -29,7 +29,7 @@
     "team-titre2": "Others Members",
     "description-armelle": "Armelle has worked for over 15 years in the marketing and sales of neurological medical devices. After several years with a Paris-based eye-tracking start-up, she joined a Swiss distributor of neurodiagnostic devices as Sales Director. She then returned to France to help young medtech start-ups develop their sales strategy.",
     "description-david": "David is research director at École Normale Supérieure in Paris. He is an expert in mathematics and engineering for modeling and analysis of biological data. With his research group, he developed an interdisciplinary approach to study and model the brain, from the neuron to the different cortical areas. He received numerous international awards for his career, including a Marie Curie Award and ERC Consolidator and Avanced Grants.",
-    "description-nathalie": "Nathalie is an expert in neuroscience and neurophysiology. She is professor (PUPH) at Université Paris Cité and head of the Clinical Physiology Department at Lariboisière Hospital (Paris), and she is co-director of INSERM team “Hemostasis, Thrombo-Inflammation and Neuro-Vascular Repair“ at the Laboratory of Vascular Translational Science (UI1148, Bichat Hospital, Paris). Her research is focused on cerebral plasticity, with a clinical and pre-clinical approach.",
+    "description-nathalie": "Nathalie is an expert in neuroscience and neurophysiology. She is professor (PUPH) at Université Paris Cité and head of the Clinical Physiology Department at Lariboisière Hospital (Paris), and she is co-director of INSERM team « Hemostasis, Thrombo-Inflammation and Neuro-Vascular Repair » at the Laboratory of Vascular Translational Science (UI1148, Bichat Hospital, Paris). Her research is focused on cerebral plasticity, with a clinical and pre-clinical approach.",
     "description-daniel": "Daniel is a software engineer who worked for several years in correlation with various governmental entities of the Israeli state, specializing in software development, product management and system engineering. With a passion for entrepreneurship, he is involved in other SaaS ventures and projects, specializing in products for deeptech (developers and researchers).",
     "description-louis": "Louis completed a double master's degree in biology and management, but after various clinical internships, he turned his attention to the world of medical devices.",
     "smed-description": "S-MED is an EEG monitoring software for measuring the depth of sedation. It includes various modules that provide information on the depth of sedation, patient sensitivity, and the history of the operation. It also allows real-time annotations to be entered, enabling detailed post-operative analysis of the EEG signal.",
@@ -96,6 +96,7 @@
     "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR."
   }
 }
+
 
 
 
