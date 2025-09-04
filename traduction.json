@@ -34,11 +34,11 @@
     "description-louis": "Louis completed a double master's degree in biology and management, but after various clinical internships, he turned his attention to the world of medical devices.",
     "smed-description": "S-MED is an EEG monitoring software for measuring the depth of sedation. It includes various modules that provide information on the depth of sedation, patient sensitivity, and the history of the operation. It also allows real-time annotations to be entered, enabling detailed post-operative analysis of the EEG signal.",
     "titre-list": "Module List",
-    "module1": "EEG Signal + Spectrogram",
-    "module2": "State Chart + Curve History",
-    "module3": "Sensitivity Score",
-    "module4": "Annotation Part",
-    "module5": "IES Probability + Curve History",
+    "module1": "1- EEG Signal + Spectrogram",
+    "module2": "2- State Chart + Curve History",
+    "module3": "3- Sensitivity Score",
+    "module4": "4- Annotation Part",
+    "module5": "5- IES Probability + Curve History",
     "description": "Click on a module to learn more about it!",
     "description-module1": "This module includes the EEG signal and the spectrogram just below it.",
     "description-module2": "This module includes the State Chart. It is a scale that represents the depth of sedation, from 0 (too deep) to 20 (awake).",
@@ -53,7 +53,7 @@
     "nav-bar-latestnews": "Dernières actualités",
     "nav-bar-contact": "Contact",
     "home-titre1": "Le monitorage EEG de demain",
-    "home-soustitre1": "Nous développons des algorithmes intelligent pour monitorer et prédire les états cérébraux pendant une anesthésie",
+    "home-soustitre1": "Nous développons des algorithmes intelligents pour monitorer et prédire les états cérébraux lors d'une anesthésie.",
     "home-titre2": "Logiciels",
     "home-smed": "Monitoring et Prédiction en temps réel",
     "home-ora": "Analyse post-opératoire des données",
@@ -82,11 +82,11 @@
     "description-louis": "Louis a obtenu un double master en biologie et en gestion, mais après divers stages cliniques, il s'est tourné vers le monde des dispositifs médicaux.",
     "smed-description": "S-MED est un logiciel de surveillance EEG permettant de mesurer la profondeur de la sédation. Il comprend différents modules qui fournissent des informations sur la profondeur de la sédation, la sensibilité du patient et l'historique de l'opération. Il permet également de saisir des annotations en temps réel, ce qui facilite l'analyse postopératoire détaillée du signal EEG.",
     "titre-list": "Liste des modules",
-    "module1": "Signal EEG + Spectrogramme",
-    "module2": "State Chart + Historique",
-    "module3": "Score de Sensibilité",
-    "module4": "Partie Annotations",
-    "module5": "Probabilité d'IES + Historique",
+    "module1": "1- Signal EEG + Spectrogramme",
+    "module2": "2- State Chart + Historique",
+    "module3": "3- Score de Sensibilité",
+    "module4": "4- Partie Annotations",
+    "module5": "5- Probabilité d'IES + Historique",
     "description": "Cliquez sur un module pour en apprendre plus!",
     "description-module1": "Ce module comprend le signal EEG et le spectrogramme juste en-dessous",
     "description-module2": "Ce module comprend la State chart et son historique tout au long de l'opération. C'est une échelle qui représente la profondeur de sédation, allant de 0 (trop profond) á 20 (éveillé).",
@@ -96,6 +96,7 @@
     "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR."
   }
 }
+
 
 
 
