@@ -50,7 +50,7 @@
     "page1-title": "Page 1",
     "page1-desc": "This is the description of Page 1.",
     "page2-title": "Page 2",
-    "page2-desc":, "This is the description of Page 2."
+    "page2-desc": "This is the description of Page 2."
   },
   "fr": {
     "nav-bar-software": "Logiciels",
@@ -103,11 +103,6 @@
     "page1-title": "Page 1",
     "page1-desc": "Ceci est la description de la Page 1.",
     "page2-title": "Page 2",
-    "page2-desc":, "Ceci est la description de la Page 2."
+    "page2-desc": "Ceci est la description de la Page 2."
   }
 }
-
-
-
-
-
