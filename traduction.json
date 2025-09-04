@@ -47,9 +47,9 @@
     "description-module5": "This module includes the IES probability in the next 90 seconds and the curve history.",
     "latestnews-text": "Find our booth in the Start-up corner of the SFAR congress.",
     "ora-desc": "ORA blabla.",
-    "page1-title": "Page 1",
+    "page1-title": "Visualization Page",
     "page1-desc": "This is the description of Page 1.",
-    "page2-title": "Page 2",
+    "page2-title": "Summary Page",
     "page2-desc": "This is the description of Page 2."
   },
   "fr": {
@@ -100,9 +100,10 @@
     "description-module5": "Ce module comprend la probabilité d'IES sur les 90 prochaines secondes et son historique tout au long de l'opération.",
     "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR.",
     "ora-desc": "ORA blabla2.",
-    "page1-title": "Page 1",
+    "page1-title": "Page de Visualisation",
     "page1-desc": "Ceci est la description de la Page 1.",
-    "page2-title": "Page 2",
+    "page2-title": "Page de Résumé",
     "page2-desc": "Ceci est la description de la Page 2."
   }
 }
+
