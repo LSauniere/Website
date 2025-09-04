@@ -45,7 +45,12 @@
     "description-module3": "This module includes the sensitivity score. This score, calculated during induction, provides information about the patient's sensitivity to hypnotics.",
     "description-module4": "This module includes the annotation part of the software. During the operation, you can write down any information you wish. These annotations are very useful for post-operative analysis of the EEG signal.",
     "description-module5": "This module includes the IES probability in the next 90 seconds and the curve history.",
-    "latestnews-text": "Find our booth in the Start-up corner of the SFAR congress."
+    "latestnews-text": "Find our booth in the Start-up corner of the SFAR congress.",
+    "ora-desc": "ORA blabla.",
+    "page1-title": "Page 1",
+    "page1-desc": "This is the description of Page 1.",
+    "page2-title": "Page 2",
+    "page2-desc":, "This is the description of Page 2."
   },
   "fr": {
     "nav-bar-software": "Logiciels",
@@ -93,9 +98,15 @@
     "description-module3": "Ce module comprend le score de sensibilité. Ce score, calculé pendant l'induction, renseigne sur la sensibilité du patient aux hypnotiques.",
     "description-module4": "Ce module comprend la partie annotations du logiciel. Pendant l'opération, vous pouvez ajouter toutes lers informations que vous souhaitez. Ces informations sont utiles pour l'analyse post-opératoire du signal EEG.",
     "description-module5": "Ce module comprend la probabilité d'IES sur les 90 prochaines secondes et son historique tout au long de l'opération.",
-    "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR."
+    "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR.",
+    "ora-desc": "ORA blabla2.",
+    "page1-title": "Page 1",
+    "page1-desc": "Ceci est la description de la Page 1.",
+    "page2-title": "Page 2",
+    "page2-desc":, "Ceci est la description de la Page 2."
   }
 }
+
 
 
 
