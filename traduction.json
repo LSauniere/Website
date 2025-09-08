@@ -51,7 +51,7 @@
     "page1-title": "1- Visualization Page",
     "page1-desc": "On this page, you can find the pre-analyzed EEG signal with color coding (Yellow = Alpha suppression and Red = IES), annotations directly synchronized to the spectrogram, and various graphs that provide information on the signal decomposition.",
     "page2-title": "2- Summary Page",
-    "page2-desc": "On this page, you can find the pre-analyzed EEG signal and spectrogram, as well as various graphs providing information on ESEs (onset, duration, and number). You can also find a summary table with the variables of your choice, which you can then export in CSV format."
+    "page2-desc": "On this page, you can find the pre-analyzed EEG signal and spectrogram, as well as various graphs providing information on ESEs (onset, duration, and number). You can also find a summary table with the variables of your choice, which you can then export in CSV format.",
   },
   "fr": {
     "nav-bar-software": "Logiciels",
@@ -105,8 +105,9 @@
     "page1-title": "1- Page de Visualisation",
     "page1-desc": "Sur cette page, vous pouvez trouver le signal EEG préanalysé avec un code couleur (Jaune= Alpha-suppression et Rouge= IES), les annotations directement synchronisées sur le spectrogramme et différents graphiques qui renseignent sur la décomposition du signal.",
     "page2-title": "2- Page de Résumé",
-    "page2-desc": "Sur cette page, vous pouvez trouver le signal EEG préanalysé et le spectrogramme, mais aussi différents graphiques qui renseignent sur les IES (apparition, durée et nombre). Vous pouvez également trouver un tableau récapitulatif avec les variables de votre choix que vous pourrez alors exporter en format csv."
+    "page2-desc": "Sur cette page, vous pouvez trouver le signal EEG préanalysé et le spectrogramme, mais aussi différents graphiques qui renseignent sur les IES (apparition, durée et nombre). Vous pouvez également trouver un tableau récapitulatif avec les variables de votre choix que vous pourrez alors exporter en format csv.",
   }
 }
+
 
 
