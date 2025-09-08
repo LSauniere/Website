@@ -24,9 +24,10 @@
     "team-titre1": "Leadership team",
     "team-role-david": "Scientific Director",
     "team-role-nathalie": "Medical Director",
+    "team-role-daniel": "Technical Director",
     "team-role-po": "Researcher & Engineer",
     "team-role-louis": "Application Engineer",
-    "team-titre2": "Others Members",
+    "team-titre2": "Operative team",
     "description-armelle": "Armelle has worked for over 15 years in the marketing and sales of neurological medical devices. After several years with a Paris-based eye-tracking start-up, she joined a Swiss distributor of neurodiagnostic devices as Sales Director. She then returned to France to help young medtech start-ups develop their sales strategy.",
     "description-david": "David is research director at École Normale Supérieure in Paris. He is an expert in mathematics and engineering for modeling and analysis of biological data. With his research group, he developed an interdisciplinary approach to study and model the brain, from the neuron to the different cortical areas. He received numerous international awards for his career, including a Marie Curie Award and ERC Consolidator and Avanced Grants.",
     "description-nathalie": "Nathalie is an expert in neuroscience and neurophysiology. She is professor (PUPH) at Université Paris Cité and head of the Clinical Physiology Department at Lariboisière Hospital (Paris), and she is co-director of INSERM team « Hemostasis, Thrombo-Inflammation and Neuro-Vascular Repair » at the Laboratory of Vascular Translational Science (UI1148, Bichat Hospital, Paris). Her research is focused on cerebral plasticity, with a clinical and pre-clinical approach.",
@@ -46,11 +47,11 @@
     "description-module4": "This module includes the annotation part of the software. During the operation, you can write down any information you wish. These annotations are very useful for post-operative analysis of the EEG signal.",
     "description-module5": "This module includes the IES probability in the next 90 seconds and the curve history.",
     "latestnews-text": "Find our booth in the Start-up corner of the SFAR congress.",
-    "ora-desc": "ORA blabla.",
-    "page1-title": "Visualization Page",
-    "page1-desc": "This is the description of Page 1.",
-    "page2-title": "Summary Page",
-    "page2-desc": "This is the description of Page 2."
+    "ora-desc": "ORA® is EEG data analysis software specifically designed for exploring post-operative recordings. ORA® provides accurate indicators to support your research. In particular, it allows EEG spectral bands to be broken down throughout the recording, with power ratios calculated for each band.",
+    "page1-title": "1- Visualization Page",
+    "page1-desc": "On this page, you can find the pre-analyzed EEG signal with color coding (Yellow = Alpha suppression and Red = IES), annotations directly synchronized to the spectrogram, and various graphs that provide information on the signal decomposition.",
+    "page2-title": "2- Summary Page",
+    "page2-desc": "On this page, you can find the pre-analyzed EEG signal and spectrogram, as well as various graphs providing information on ESEs (onset, duration, and number). You can also find a summary table with the variables of your choice, which you can then export in CSV format."
   },
   "fr": {
     "nav-bar-software": "Logiciels",
@@ -77,9 +78,10 @@
     "team-titre1": "Équipe de direction",
     "team-role-david": "Directeur Scientifique",
     "team-role-nathalie": "Directeur Médical",
+    "team-role-daniel": "Directeur Technique",
     "team-role-po": "Chercheur & Ingénieur",
     "team-role-louis": "Ingénieur d'Application",
-    "team-titre2": "Autres membres",
+    "team-titre2": "Équipe opérative",
     "description-armelle": "Armelle travaille depuis plus de 15 ans dans le marketing et la vente de dispositifs médicaux neurologiques. Après plusieurs années passées dans une start-up parisienne spécialisée dans l'oculométrie, elle a rejoint un distributeur suisse de dispositifs de neurodiagnostic en tant que directrice commerciale. Elle est ensuite revenue en France pour aider de jeunes start-ups du secteur des technologies médicales à développer leur stratégie commerciale.",
     "description-david": "David est directeur de recherche à l'École Normale Supérieure de Paris. Il est expert en mathématiques et en ingénierie pour la modélisation et l'analyse de données biologiques. Avec son groupe de recherche, il a développé une approche interdisciplinaire pour étudier et modéliser le cerveau, du neurone aux différentes zones corticales. Il a reçu de nombreuses distinctions internationales pour sa carrière, notamment un prix Marie Curie et des subventions ERC Consolidator et Advanced.",
     "description-nathalie": "Nathalie est experte en neurosciences et neurophysiologie. Elle est professeure (PUPH) à l'Université Paris Cité et chef du service de physiologie clinique à l'hôpital Lariboisière (Paris). Elle est également codirectrice de l'équipe INSERM « Hémostase, thrombo-inflammation et réparation neurovasculaire » au Laboratoire de science translationnelle vasculaire (UI1148, Hôpital Bichat, Paris). Ses recherches portent sur la plasticité cérébrale, avec une approche clinique et préclinique.",
@@ -99,11 +101,12 @@
     "description-module4": "Ce module comprend la partie annotations du logiciel. Pendant l'opération, vous pouvez ajouter toutes lers informations que vous souhaitez. Ces informations sont utiles pour l'analyse post-opératoire du signal EEG.",
     "description-module5": "Ce module comprend la probabilité d'IES sur les 90 prochaines secondes et son historique tout au long de l'opération.",
     "latestnews-text": "Vous trouverez notre stand dans le coin Start-up du congrès de la SFAR.",
-    "ora-desc": "ORA blabla2.",
-    "page1-title": "Page de Visualisation",
-    "page1-desc": "Ceci est la description de la Page 1.",
-    "page2-title": "Page de Résumé",
-    "page2-desc": "Ceci est la description de la Page 2."
+    "ora-desc": "ORA® est un logiciel d’analyse des données EEG spécifiquement conçu pour l’exploration des enregistrements post-opératoires. ORA® fournit des indicateurs précis pour accompagner vos recherches. Il permet notamment une décomposition des bandes spectrales EEG tout au long de l’enregistrement, avec le calcul des rapports de puissance pour chaque bande.",
+    "page1-title": "1- Page de Visualisation",
+    "page1-desc": "Sur cette page, vous pouvez trouver le signal EEG préanalysé avec un code couleur (Jaune= Alpha-suppression et Rouge= IES), les annotations directement synchronisées sur le spectrogramme et différents graphiques qui renseignent sur la décomposition du signal.",
+    "page2-title": "2- Page de Résumé",
+    "page2-desc": "Sur cette page, vous pouvez trouver le signal EEG préanalysé et le spectrogramme, mais aussi différents graphiques qui renseignent sur les IES (apparition, durée et nombre). Vous pouvez également trouver un tableau récapitulatif avec les variables de votre choix que vous pourrez alors exporter en format csv."
   }
 }
+
 
