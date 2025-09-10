@@ -88,7 +88,7 @@
     "description-nathalie": "Nathalie est experte en neurosciences et neurophysiologie. Elle est professeure (PUPH) à l'Université Paris Cité et chef du service de physiologie clinique à l'hôpital Lariboisière (Paris). Elle est également codirectrice de l'équipe INSERM « Hémostase, thrombo-inflammation et réparation neurovasculaire » au Laboratoire de science translationnelle vasculaire (UI1148, Hôpital Bichat, Paris). Ses recherches portent sur la plasticité cérébrale, avec une approche clinique et préclinique.",
     "description-daniel": "Daniel est un ingénieur logiciel qui a travaillé pendant plusieurs années en collaboration avec diverses entités gouvernementales de l'État israélien, se spécialisant dans le développement de logiciels, la gestion de produits et l'ingénierie des systèmes. Passionné par l'entrepreneuriat, il participe à d'autres entreprises et projets SaaS, se spécialisant dans les produits destinés aux technologies de pointe (développeurs et chercheurs).",
     "description-po": "Pierre-Olivier a suivi une formation à l'université Paris Saclay où il a obtenu deux masters, l'un en physique et l'autre en traitement de l'information. Il a travaillé comme ingénieur de recherche dans le laboratoire de David Holcman, où il s'est spécialisé dans les méthodes mathématiques permettant de caractériser et de prédire l'état du cerveau. Actuellement inscrit en doctorat entre SignalMed+, le laboratoire LAMA de l'UPEC et l'ENS, il met en relation la recherche et les logiciels d'application en temps réel. Il échange avec des cliniciens afin de comprendre leurs besoins et d'alimenter en permanence la recherche pour l'améliorer encore.",
-    "description-louis": "Louis a obtenu un double master en biologie et en gestion, mais après divers stages cliniques, il s'est tourné vers le monde des dispositifs médicaux.",
+    "description-louis": "Louis a obtenu un double master en biologie et en management, mais après divers stages cliniques, il s'est tourné vers le monde des dispositifs médicaux.",
     "smed-description": "S-MED est un logiciel de surveillance EEG permettant de mesurer la profondeur de la sédation. Il comprend différents modules qui fournissent des informations sur la profondeur de la sédation, la sensibilité du patient et l'historique de l'opération. Il permet également de saisir des annotations en temps réel, ce qui facilite l'analyse postopératoire détaillée du signal EEG.",
     "titre-list": "Liste des modules",
     "module1": "1- Signal EEG + Spectrogramme",
@@ -110,6 +110,7 @@
     "page2-desc": "Sur cette page, vous pouvez trouver le signal EEG préanalysé et le spectrogramme, mais aussi différents graphiques qui renseignent sur les IES (apparition, durée et nombre). Vous pouvez également trouver un tableau récapitulatif avec les variables de votre choix que vous pourrez alors exporter en format csv."
   }
 }
+
 
 
 
